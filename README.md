@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charbelmansour005
 - 👀 I’m interested in React Native and Full Stack Development (MERN)
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning more about React Native
 - 📫 How to reach me charbelmansour005@gmail.com
 
 <!---
