@@ -2,7 +2,7 @@
 - React Native 
 - Typescript + Javascript ( Promises & Async Awaits )
 - NodeJS + ExpressJS + MongoDB
-- Check my code, oh... and my commits :)
+- Check my code. Oh, and my commits :)
 
 📫 How to reach me charbelmansour005@gmail.com
 
