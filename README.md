@@ -1,10 +1,10 @@
-- ReactJS ( Vitejs + Create React App )
-- React Native 
-- Typescript + Javascript ( Promises & Async Awaits )
-- NodeJS + ExpressJS + MongoDB
-- Check my code, oh... and my commits :)
+ReactJS ( Vitejs + Create React App )
+React Native 
+Typescript + Javascript ( Promises & Async Awaits )
+NodeJS + ExpressJS + MongoDB
+Check my code, oh... and my commits :)
 
-- 📫 How to reach me charbelmansour005@gmail.com
+📫 How to reach me charbelmansour005@gmail.com
 
 <!---
 charbelmansour005/charbelmansour005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
