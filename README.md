@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @charbelmansour005
-- 👀 I’m a computer science graduate interested in React Native and Full Stack Development (MERN)
-- 🌱 I’m currently learning more about React Native
+- ReactJS ( Vitejs + Create React App )
+- React Native 
+- Typescript + Javascript
+- NodeJS + ExpressJS + MongoDB
+
 - 📫 How to reach me charbelmansour005@gmail.com
 
 <!---
