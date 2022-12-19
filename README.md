@@ -1,8 +1,12 @@
-<div style="height: 660px; width: 1331px; ">
-- Typescript
-- ReactJS ( Vitejs + Create React App )
-- React Native 
-- NodeJS + ExpressJS + MongoDB
+<div style="justify-content: center; align-items: center; ">
+  <ul>
+    <li>Typescript</li>
+        <li>ReactJS ( Vitejs + Create React App )</li>
+        <li>React Native </li>
+        <li>NodeJS</li>
+        <li>ExpressJS</li>
+        <li>MongoDB</li>
+  </ul>
 </div>
 
 <image width="700" height="400" src="https://wakatime.com/share/@29a863a5-88df-4971-9da9-86da3e2caf64/b07ba6d3-5001-4094-bdce-dc974fcb523f.svg"></image>
