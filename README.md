@@ -6,7 +6,7 @@
 
 📫 How to reach me charbelmansour005@gmail.com
 
-<figure><embed src="https://wakatime.com/share/@29a863a5-88df-4971-9da9-86da3e2caf64/f8e4f6e0-9d99-4b1e-9100-35be026524c3.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@29a863a5-88df-4971-9da9-86da3e2caf64/9a4b7e0c-be46-4e0b-8e03-5661d3b3027d.png" /></a>
 
 <!---
 charbelmansour005/charbelmansour005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
