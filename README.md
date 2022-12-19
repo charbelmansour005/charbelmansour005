@@ -4,7 +4,7 @@
 - NodeJS + ExpressJS + MongoDB
 - Code is worth 1000 words. Check my code. Oh, and my commits :)
 
-<image src="https://wakatime.com/share/@29a863a5-88df-4971-9da9-86da3e2caf64/9190f949-53f1-466b-884e-0fa2870c3c5d.svg"></image>
+<image width="500" height="300" src="https://wakatime.com/share/@29a863a5-88df-4971-9da9-86da3e2caf64/b07ba6d3-5001-4094-bdce-dc974fcb523f.svg"></image>
 
 📫 How to reach me charbelmansour005@gmail.com
 
